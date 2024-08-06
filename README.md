@@ -39,9 +39,7 @@ Para ejecutar **ElBuscaMaquinas**, sigue estos pasos:
    - Asegúrate de que `js-beautify` esté instalado. Si no, puedes instalarlo usando:
 
      ```bash
-
      npm install -g js-beautify
-
      ```
 
 2. **Descarga o clona el script desde GitHub**:
@@ -49,27 +47,21 @@ Para ejecutar **ElBuscaMaquinas**, sigue estos pasos:
    - Clona el repositorio:
 
      ```bash
-
      git clone https://github.com/RogelioGF/ElBuscaMaquinas.git
-
      ```
 
    - Navega al directorio:
 
-     ```bash
-
+     ```bash
      cd ElBuscaMaquinas
-
      ```
 
   
 
 3. **Haz que el script sea ejecutable** (si no lo es ya):
-
+   
    ```bash
-
    chmod +x htbmachines.sh
-
    ```
 
   
@@ -77,9 +69,7 @@ Para ejecutar **ElBuscaMaquinas**, sigue estos pasos:
 4. **Ejecuta el script**:
 
    ```bash
-
    ./htbmachines.sh
-
    ```
 
   
