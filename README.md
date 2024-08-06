@@ -44,7 +44,7 @@ Para ejecutar **ElBuscaMaquinas**, sigue estos pasos:
 
      ```bash
 
-     git clone https://github.com/yourusername/ElBuscaMaquinas.git
+     git clone https://github.com/RogelioGF/ElBuscaMaquinas.git
 
      ```
 
