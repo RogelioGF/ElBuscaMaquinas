@@ -9,7 +9,6 @@ date modified: 2024-08-06 17:36
 
 # Documentación de ElBuscaMaquinas
 
-![[A_professional_banner_for_'ElBuscaMaquinas'_with_a.png]] 
 
 ---
 
@@ -51,7 +50,7 @@ Para ejecutar **ElBuscaMaquinas**, sigue estos pasos:
 
      ```bash
 
-     git clone https://github.com/yourusername/ElBuscaMaquinas.git
+     git clone https://github.com/RogelioGF/ElBuscaMaquinas.git
 
      ```
 
