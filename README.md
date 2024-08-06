@@ -9,7 +9,7 @@ date modified: 2024-08-06 17:36
 
 # Documentación de ElBuscaMaquinas
 
-
+![ElBuscaMaquinas](https://github.com/RogelioGF/ElBuscaMaquinas/blob/main/A_professional_banner_for_'ElBuscaMaquinas'_with_a.png?raw=true)
 ---
 
   
