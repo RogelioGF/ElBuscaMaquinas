@@ -38,9 +38,9 @@ Para ejecutar **ElBuscaMaquinas**, sigue estos pasos:
 
    - Asegúrate de que `js-beautify` esté instalado. Si no, puedes instalarlo usando:
 
-     ```bash
-     npm install -g js-beautify
-     ```
+```bash
+npm install -g js-beautify
+```
 
 2. **Descarga o clona el script desde GitHub**:
 
